@@ -9,7 +9,7 @@ En **Enlazados**, respetamos y protegemos tu información personal. Esta políti
 ## 1. Responsable del Tratamiento
 
 - **Empresa:** Creamoss S.O S.A.S.
-- **Email de contacto:** contacto@enlazados.com *(puedes cambiarlo por uno tuyo real)*
+- **Email de contacto:** hola@creamoss.com 
 - **Dirección:** Colombia
 
 ---
@@ -81,3 +81,4 @@ Al usar Enlazados, aceptas esta política de tratamiento de datos.
 ---
 
 © 2025 Creamoss S.O S.A.S. Todos los derechos reservados.
+
